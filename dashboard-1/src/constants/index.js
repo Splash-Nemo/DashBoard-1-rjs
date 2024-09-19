@@ -158,8 +158,6 @@ export const events = [
   },
 ];
 
-// ------- ==
-// chart data, later we will use this!!!
 
 // const options = {
 //   series: [44, 55, 41],
